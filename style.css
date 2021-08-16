@@ -3,16 +3,18 @@ body {
     text-align: center;
 }
 
-#navbar {
+#navbar {   /* Navigation bar at the top of your page */
     position: fixed;
     top: 0px;
     left: 0px;
     width: 100%;
-    background-color: rgb(255, 224, 224);
+    background-color: #FFFFFF;
 }
 
-nav li {
+nav li {    /* Affects all of the li tags within the nav tag */
     display: inline;
     margin-right: 20px;
     padding: 10px;
 }
+
+/*FIX ALL YOUR SHIT, IT'S NOT WORKING ON GITHUB
