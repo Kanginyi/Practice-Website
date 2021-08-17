@@ -1,6 +1,10 @@
 body {
     background: linear-gradient(90deg, #CCFFFF, #FFCCCC), pink;
+    font-family: "Quicksand", sans-serif;
+    font-size: 16px;
     text-align: center;
+    line-height: 20px;
+    color: #000000;
 }
 
 #navbar {   /* Navigation bar at the top of your page */
@@ -8,7 +12,7 @@ body {
     top: 0px;
     left: 0px;
     width: 100%;
-    background-color: #FFFFFF;
+    background-color: rgba(255, 255, 255, 0.7);
 }
 
 nav li {    /* Affects all of the li tags within the nav tag */
@@ -16,5 +20,3 @@ nav li {    /* Affects all of the li tags within the nav tag */
     margin-right: 20px;
     padding: 10px;
 }
-
-/*FIX ALL YOUR SHIT, IT'S NOT WORKING ON GITHUB
