@@ -9,6 +9,7 @@ body {
 
 #navbar {   /* Navigation bar at the top of your page */
     position: fixed;
+    text-align: center;
     top: 0px;
     left: 0px;
     width: 100%;
